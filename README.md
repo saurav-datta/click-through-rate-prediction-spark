@@ -1,1 +1,1 @@
-# w261-final-project
+# Predicting click through rate on a Spark cluster on GCP
